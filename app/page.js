@@ -1,0 +1,34 @@
+import Layout from "@/components/layout/Layout"
+import Banner from "@/components/sections/home1/Banner"
+import About from "@/components/sections/home1/About"
+import Service from "@/components/sections/home1/Service"
+import Projects from "@/components/sections/home1/Projects"
+import WhyChooseUs from "@/components/sections/home1/WhyChooseUs"
+import Skills from "@/components/sections/home1/Skills"
+import Cta from "@/components/sections/home1/Cta"
+import Funfacts from "@/components/sections/home1/Funfacts"
+import Brands from "@/components/sections/home1/Brands"
+
+export default function Home() {
+
+    return (
+        <>
+            <Layout headerStyle={1} footerStyle={1}>
+                <Banner />
+                <About />
+                <Service />
+                <Projects />
+                <WhyChooseUs />
+                <Skills />
+                <Cta />
+                <Funfacts />
+                <Brands />
+              
+                
+               
+                
+            </Layout>
+
+        </>
+    )
+}

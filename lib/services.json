@@ -1,0 +1,50 @@
+[
+    {
+        "id": "fast-personal-delivery",
+        "title": "Fast Personal Delivery",
+        "slug": "fast-personal-delivery",
+        "short_description": "A logistic service provider company plays a pivotal role in the global supply chain logistic service.",
+        "image": "assets/images/services/services-v1-img1.png",
+        "icon": "icon-delivery-man"
+    },
+    {
+        "id": "local-truck-transport",
+        "title": "Local Truck Transport",
+        "slug": "local-truck-transport",
+        "short_description": "A logistic service provider company plays a pivotal role in the global supply chain logistic service.",
+        "image": "assets/images/services/services-v1-img2.png",
+        "icon": "icon-shipment"
+    },
+    {
+        "id": "international-transport",
+        "title": "International Transport",
+        "slug": "international-transport",
+        "short_description": "A logistic service provider company plays a pivotal role in the global supply chain logistic service.",
+        "image": "assets/images/services/services-v1-img3.png",
+        "icon": "icon-international-shipping"
+    },
+    {
+        "id": "safe-ocean-transport",
+        "title": "Safe Ocean Transport",
+        "slug": "safe-ocean-transport",
+        "short_description": "A logistic service provider company plays a pivotal role in the global supply chain logistic service.",
+        "image": "assets/images/services/services-v1-img1.png",
+        "icon": "icon-ship-1"
+    },
+    {
+        "id": "warehouse-facility",
+        "title": "Warehouse Facility",
+        "slug": "warehouse-facility",
+        "short_description": "A logistic service provider company plays a pivotal role in the global supply chain logistic service.",
+        "image": "assets/images/services/services-v1-img2.png",
+        "icon": "icon-storehouse"
+    },
+    {
+        "id": "emergency-transport",
+        "title": "Emergency Transport",
+        "slug": "emergency-transport",
+        "short_description": "A logistic service provider company plays a pivotal role in the global supply chain logistic service.",
+        "image": "assets/images/services/services-v1-img3.png",
+        "icon": "icon-humanitarian-aid"
+    }
+]
